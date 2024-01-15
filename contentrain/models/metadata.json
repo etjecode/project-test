@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "json-model-1234",
+    "modelId": "json-model-1234",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  }
+]
