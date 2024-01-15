@@ -1,6 +1,6 @@
 [
   {
-    "name": "json-model",
+    "name": "md-model",
     "modelId": "json-model",
     "localization": false,
     "type": "JSON",
