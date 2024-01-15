@@ -1,13 +1,6 @@
 [
   {
     "name": "md-model",
-    "modelId": "json-model",
-    "localization": false,
-    "type": "JSON",
-    "createdBy": "user"
-  },
-  {
-    "name": "md-model",
     "modelId": "md-model",
     "localization": false,
     "type": "MD",
